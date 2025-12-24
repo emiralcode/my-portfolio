@@ -1,5 +1,7 @@
 # 🚀 Modern PHP Portfolyo Sitesi
 
+> 🌐 **Canlı Demo:** Projeyi canlı incelemek için tıklayın: **[enesemiral.com](https://enesemiral.com)**
+
 Bu proje, modern web teknolojileri ve temiz PHP yapısı kullanılarak geliştirilmiş, tamamen özelleştirilebilir bir kişisel portfolyo sitesidir.
 
 ## ✨ Özellikler
@@ -76,4 +78,3 @@ $projects = [
 Bu proje MIT lisansı ile lisanslanmıştır. Dilediğiniz gibi kullanabilir ve değiştirebilirsiniz.
 
 ---
-*Sevgiyle kodlandı.* 💙
